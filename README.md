@@ -37,8 +37,8 @@ Use [sshconfig](files/sshconfig) as a reference.
 1\. Clone this GitHub repo and _cd_ into the directory.
 
 <pre>
-$ <b>git clone https://github.com/mweisel/ine-ccie-ei-v1-exam-review-lab-companion.git</b>
-$ <b>cd ine-ccie-ei-v1-exam-review-lab-companion</b>
+$ <b>git clone https://github.com/acaldir/L2-Switching-Question-Vagrant.git</b>
+$ <b>cd L2-Switching-Question-Vagrant</b>
 </pre>
 
 2\. Create a Python virtual environment.
